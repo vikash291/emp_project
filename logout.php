@@ -1,0 +1,9 @@
+<?php
+session_start();
+unset($_SESSION['emp_id']);
+unset($_SESSION['date']);  
+if(session_destroy())
+{
+header("location:index.php?lo=1");
+}
+?>

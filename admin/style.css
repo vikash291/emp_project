@@ -1,0 +1,22 @@
+
+.logotext{
+margin-left:-250px;
+margin-top: 50px;
+
+}
+body{
+
+background-image: url(img/backlogin.jpg);
+background-repeat: no-repeat;
+ background-size:100%;
+
+}
+.login
+{
+margin-left: 200px;
+margin-bottom:150px;
+}
+.sub{
+  margin-left:300px;
+
+}

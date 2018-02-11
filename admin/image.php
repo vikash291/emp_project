@@ -1,0 +1,1 @@
+Choose Photo:<input type="file">
